@@ -3,7 +3,7 @@
 # [MusicPlayer]
   
 Simple Basic Player implemented in Python using Tkinter &amp; Pygame Library , Os Library And Fnmatch Library
-Read full Code Step by step and build Your music player.
+Read full Code Step by step and build Your Own music player.
   
 Instructions 
 --------------
